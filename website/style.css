@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.data {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.temperature-leds, .humidity-leds {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.led {
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+    border-radius: 50%;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.red {
+    background-color: red;
+}
+
+.school-info {
+    margin-top: 20px;
+}
+
