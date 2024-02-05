@@ -22,7 +22,7 @@ Dans les versions futures de ce projet, nous prévoyons d'implémenter une fonct
 
 ## Auteur
 
-Mohammed FRIOUICHEN et [Hicham DJEBALI]([https://github.com/purnasth](https://github.com/spideystreet/))
+Mohammed FRIOUICHEN et [Hicham DJEBALI](https://github.com/spideystreet/)
 
 
 ## Licence
