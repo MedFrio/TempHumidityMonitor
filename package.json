@@ -2,7 +2,7 @@
   "dependencies": {
     "express": "^4.18.2",
     "ip": "^1.1.8",
-    "network": "^0.6.1",
+    "network": "^0.7.0",
     "network-address": "^1.1.2"
   }
 }
