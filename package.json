@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "express": "^4.21.1",
+    "express": "^4.22.2",
     "network": "^0.7.0",
     "network-address": "^1.1.2"
   }
